@@ -13,6 +13,10 @@ def some_function(mylist=[]):
 mylist = ['one', 'two', 'three', 'four']
 
 # here is another section
+a_var = 0
+b_var = 1
+c_var = a_var + b_var
+print(f"c_var {c_var}")
 
 if __name__ == "__main__":
     some_function(mylist=mylist)
