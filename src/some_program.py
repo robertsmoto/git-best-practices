@@ -21,6 +21,14 @@ print(f"c_var {c_var}")
 # more comments
 # more comments
 
+d_var = 4
+e_var = 1
+f_var = d_var - e_var
+print(f"f_var {f_var}")
+
+# here is another comment
+""" here is a doc string """
+
 if __name__ == "__main__":
     some_function(mylist=mylist)
 
