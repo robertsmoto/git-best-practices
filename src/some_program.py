@@ -18,6 +18,8 @@ b_var = 1
 c_var = a_var + b_var
 print(f"c_var {c_var}")
 
+# more comments
+
 if __name__ == "__main__":
     some_function(mylist=mylist)
 
