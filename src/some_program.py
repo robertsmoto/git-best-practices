@@ -12,6 +12,8 @@ def some_function(mylist=[]):
 
 mylist = ['one', 'two', 'three', 'four']
 
+# here is another section
+
 if __name__ == "__main__":
     some_function(mylist=mylist)
 
